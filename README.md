@@ -1,8 +1,5 @@
 **The Minecraft Grub Theme Trio:**
 
-| [Minecraft Main Menu](https://github.com/Toaaa/minegrub-theme) | *> Minecraft World Selection Menu <* | [Using both themes together](https://github.com/Toaaa/double-minegrub-menu) |
-| --- | --- | --- |
-
 # Minecraft World Selection Grub Theme
 
 Wowie, another Minecraft grub theme! But this time it's in the style of the singleplayer world selection menu, which makes a little more sense than selecting your operating system from the main menu.
@@ -117,5 +114,4 @@ Click to read more ^
 - I have a grand secret project that I may reveal soon
 - Maybe it eats your food, maybe it doesn't
 - Thank you internet for wisdom and funny youtube clips that kept me motivated on my journey
-- **Go check out the other Minegrub: [Minegrub Theme](https://github.com/Toaaa/minegrub-theme)**
 
